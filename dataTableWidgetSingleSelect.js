@@ -7,6 +7,6 @@ $('#DataTableCommonName :checkbox').each(function() {
   // checked to see if at least one is checked
   if (this.checked){
     oneChecked = true;
-    page.data.selected = extra.dataObject;
+    page.data.selected = extra.dataObject; // ideally you would make this page object
   } 
 });
