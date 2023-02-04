@@ -1,3 +1,3 @@
 # VantiqClientBuilderSnippets
 
-Simple recipes for Vantiq Client Builder Actions
+Simple recipes for Vantiq Client Builder
